@@ -1,0 +1,5 @@
+numpy>=1.26
+jax>=0.4.30        # CPU build is enough (JIT training + exact input gradients)
+matplotlib>=3.8
+pillow>=10
+pandas>=2
